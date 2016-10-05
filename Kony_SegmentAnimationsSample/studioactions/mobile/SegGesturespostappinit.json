@@ -1,0 +1,11 @@
+{
+    "SegGesturespostappinit": {
+        "id": "SegGesturespostappinit",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "params",
+            "value": "params"
+        }],
+        "actions": []
+    }
+}

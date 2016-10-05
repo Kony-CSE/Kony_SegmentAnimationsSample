@@ -1,0 +1,23 @@
+{
+    "AS_Button_77d1e401bf5b47c9a1dfa8c65aeb5e87": {
+        "id": "AS_Button_77d1e401bf5b47c9a1dfa8c65aeb5e87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStart",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet19134457662"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d98beb6708eb4ce68ae9f98bbe1ae5c5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setAnimation(\"scale\")",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

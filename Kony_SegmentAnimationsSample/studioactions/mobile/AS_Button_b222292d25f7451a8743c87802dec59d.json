@@ -1,0 +1,26 @@
+{
+    "AS_Button_b222292d25f7451a8743c87802dec59d": {
+        "id": "AS_Button_b222292d25f7451a8743c87802dec59d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segTemplate",
+            "type": "templates",
+            "platform": "",
+            "KUID": "p2kwiet19134457667"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__75f27f76777a4a00ba86d291309c7c11",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "deleteRecordwithAnimation()",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

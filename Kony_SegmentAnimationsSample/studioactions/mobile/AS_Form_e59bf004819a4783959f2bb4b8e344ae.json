@@ -1,0 +1,17 @@
+{
+    "AS_Form_e59bf004819a4783959f2bb4b8e344ae": {
+        "id": "AS_Form_e59bf004819a4783959f2bb4b8e344ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStart",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet19134457662"
+        },
+        "actions": []
+    }
+}

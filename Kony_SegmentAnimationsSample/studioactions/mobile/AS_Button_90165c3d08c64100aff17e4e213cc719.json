@@ -1,0 +1,22 @@
+{
+    "AS_Button_90165c3d08c64100aff17e4e213cc719": {
+        "id": "AS_Button_90165c3d08c64100aff17e4e213cc719",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStart",
+            "type": "forms",
+            "platform": "",
+            "KUID": "p2kwiet19134457662"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_2a9ee82863ab45b08b61124b4905cb40",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setOperations(\"Remove\");",
+            "callbackType": null
+        }]
+    }
+}
